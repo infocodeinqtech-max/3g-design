@@ -16,7 +16,7 @@ function figmaAssetResolver() {
 }
 
 // Hostinger: public_html/3gdeco/tmp_2/ → URL base /3gdeco/tmp_2/
-const HOSTINGER_BASE = "/3gdeco/tmp_pro/";
+const HOSTINGER_BASE = "/3gdeco/tmp_pro/"; // new folder
 
 export default defineConfig(({ command }) => ({
   base: command === "build" ? HOSTINGER_BASE : "/",
