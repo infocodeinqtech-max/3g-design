@@ -1,0 +1,10 @@
+services:
+  react:
+    build: .
+    container_name: 3g-design
+    ports:
+      - "5174:5173"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    command: npm run dev -- --host

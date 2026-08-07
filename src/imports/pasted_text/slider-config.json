@@ -1,0 +1,760 @@
+<div class="swiper swiper_container swiper_container_slider swiper-creative swiper-3d swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress" id="slider-main-d37abb6" data-swiper="{&quot;loop&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:4000},&quot;speed&quot;:400,&quot;centeredSlides&quot;:false,&quot;spaceBetween&quot;:30,&quot;effect&quot;:&quot;creative&quot;,&quot;grabCursor&quot;:true,&quot;mousewheel&quot;:false,&quot;breakpoints&quot;:{&quot;2400&quot;:{&quot;slidesPerView&quot;:1},&quot;1366&quot;:{&quot;slidesPerView&quot;:1},&quot;1200&quot;:{&quot;slidesPerView&quot;:1},&quot;1024&quot;:{&quot;slidesPerView&quot;:1},&quot;880&quot;:{&quot;slidesPerView&quot;:1},&quot;767&quot;:{&quot;slidesPerView&quot;:1}},&quot;creativeEffect&quot;:{&quot;prev&quot;:{&quot;shadow&quot;:true,&quot;translate&quot;:[&quot;-20%&quot;,0,-1]},&quot;next&quot;:{&quot;translate&quot;:[&quot;100%&quot;,0,0]}},&quot;navigation&quot;:{&quot;nextEl&quot;:&quot;.slider-next-d37abb6&quot;,&quot;prevEl&quot;:&quot;.slider-prev-d37abb6&quot;},&quot;pagination&quot;:{&quot;el&quot;:&quot;.slider-pagination-d37abb6&quot;,&quot;clickable&quot;:true,&quot;type&quot;:&quot;fraction&quot;}}">
+
+                <div class="swiper-wrapper" id="swiper-wrapper-e2e2ae489f40f74a" aria-live="off" style="cursor: grab; transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" role="group" aria-label="3 / 3" data-swiper-slide-index="2" style="width: 1835px; z-index: 3; transform: translate3d(calc(-20% + 0px), calc(0px), calc(-1px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1; transition-duration: 0ms; margin-right: 30px;">
+                                <style id="elementor-post-5871">.elementor-5871 .elementor-element.elementor-element-d5fd950{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-d5fd950:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-d5fd950 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/slider-home-2-3.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5871 .elementor-element.elementor-element-fbf955b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-fb32e9a{--display:flex;}.elementor-5871 .elementor-element.elementor-element-5440dea{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-5440dea:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-5440dea > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-5871 .elementor-element.elementor-element-9cd64c6{width:100%;max-width:100%;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative  , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative  p , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h1 , .elementor-5871 .elementor-element.elementor-element-15e2fb0
+                        .position_p_relative h2 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h3 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h4 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h5 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h6 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative a ,
+                        .elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative ul li , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-5871 .elementor-element.elementor-element-7031d2d > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-wrapper-2{text-align:left;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:63%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:42%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:30%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:27%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:100%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:53%;}}@media(max-width:880px){.elementor-5871 .elementor-element.elementor-element-fbf955b{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-5871 .elementor-element.elementor-element-5440dea{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-5871 .elementor-element.elementor-element-5440dea{--width:91%;--min-height:520px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:30px;line-height:38px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-one, .elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-two{width:45px;height:45px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}</style><style>.elementor-5871 .elementor-element.elementor-element-d5fd950{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-d5fd950:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-d5fd950 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/slider-home-2-3.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5871 .elementor-element.elementor-element-fbf955b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-fb32e9a{--display:flex;}.elementor-5871 .elementor-element.elementor-element-5440dea{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-5440dea:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-5440dea > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-5871 .elementor-element.elementor-element-9cd64c6{width:100%;max-width:100%;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative  , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative  p , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h1 , .elementor-5871 .elementor-element.elementor-element-15e2fb0
+                        .position_p_relative h2 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h3 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h4 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h5 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h6 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative a ,
+                        .elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative ul li , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-5871 .elementor-element.elementor-element-7031d2d > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-wrapper-2{text-align:left;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:63%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:42%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:30%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:27%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:100%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:53%;}}@media(max-width:880px){.elementor-5871 .elementor-element.elementor-element-fbf955b{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-5871 .elementor-element.elementor-element-5440dea{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-5871 .elementor-element.elementor-element-5440dea{--width:91%;--min-height:520px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:30px;line-height:38px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-one, .elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-two{width:45px;height:45px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}/* Blur Effects - Works in Editor and Frontend */
+            .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+            }
+           
+            .elementor-element.blur-type-backdrop-filter.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-filter.blur-enabled-yes {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-both.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Mask Image Effects */
+            .elementor-element.mask-enabled-yes {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Overlay Effects */
+            .elementor-element.overlay-blur-enabled-yes::before {
+                filter: blur(10px) !important;
+                -webkit-filter: blur(10px) !important;
+            }
+           
+            .elementor-element.overlay-mask-enabled-yes::before {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Background specific blur targets */
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-video-container,
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-slideshow {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-container,
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-widget-wrap {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Editor specific improvements */
+            .elementor-editor-active .elementor-element.blur-enabled-yes {
+                position: relative;
+            }
+           
+            /* Force styles in editor preview */
+            #elementor-preview-iframe .elementor-element.blur-enabled-yes,
+            .elementor-device-desktop .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+            }</style>		<div data-elementor-type="wp-post" data-elementor-id="5871" class="elementor elementor-5871">
+				<div class="elementor-element elementor-element-d5fd950 e-flex e-con-boxed e-con e-parent" data-id="d5fd950" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fbf955b e-con-full e-flex e-con e-child" data-id="fbf955b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-fb32e9a e-con-full elementor-hidden-mobile_extra elementor-hidden-mobile e-flex e-con e-child" data-id="fb32e9a" data-element_type="container" data-e-type="container">
+				</div>
+		<div class="elementor-element elementor-element-5440dea e-con-full e-flex e-con e-child" data-id="5440dea" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-9cd64c6 elementor-widget__width-inherit elementor-widget elementor-widget-slider-title-v1" data-id="9cd64c6" data-element_type="widget" data-e-type="widget" data-widget_type="slider-title-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="slider-title-wrapper type_two dark_color" data-animation-type="type_two">
+                                                <h2 class="slider-title-repeater mb_0 animated-title">
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Efficient</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/blog-1-1.jpg" alt="Efficient" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/11/blog-1-2.jpg" alt="Office" class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/blog-1-3.jpg" alt="Office" class="title-image-two">
+                                                                                </span>
+                                                                                                        
+                                <span class="title-text">Office</span>
+                                
+                                                            </span>
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Interior</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-1.jpg" alt="Interior" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/location-new-1-1.jpg" alt="Concepts" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                        
+                                <span class="title-text">Concepts</span>
+                                
+                                                            </span>
+                                            </h2>
+                                    </div>
+        				</div>
+				</div>
+		<div class="elementor-element elementor-element-0bbd998 e-con-full e-flex e-con e-child" data-id="0bbd998" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-15e2fb0 elementor-widget elementor-widget-trimprim-text-editor-v1" data-id="15e2fb0" data-element_type="widget" data-e-type="widget" data-widget_type="trimprim-text-editor-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="position-relative position_p_relative">
+                Designing elegant, functional homes that blend style and
+comfort for lasting beauty.            </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-7031d2d elementor-widget elementor-widget-theme-button-v2" data-id="7031d2d" data-element_type="widget" data-e-type="widget" data-widget_type="theme-button-v2.default">
+				<div class="elementor-widget-container">
+					        <div class="theme-button-wrapper-2">
+            <a class="theme-button-new nbutton-style-1" href="#">
+                <i class="button-icon icon-before decorias-arrow-right"></i>                <span> See in Gallery </span>
+                            </a>
+        </div>
+        				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		                            <div class="swiper-slide-shadow" style="opacity: 1; transition-duration: 0ms;"></div></div>
+                                                                        <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 3" data-swiper-slide-index="0" style="width: 1835px; z-index: 4; transform: translate3d(calc(-20% - 1865px), calc(0px), calc(-1px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1; transition-duration: 0ms; margin-right: 30px;">
+                                <style id="elementor-post-403">.elementor-403 .elementor-element.elementor-element-53f9941{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-53f9941:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-53f9941 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/decoria-home-2-slider-1-1-min.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-403 .elementor-element.elementor-element-64e30b5{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-d562e3c{--display:flex;}.elementor-403 .elementor-element.elementor-element-4239150{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-4239150:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-4239150 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-403 .elementor-element.elementor-element-09b1705{width:100%;max-width:100%;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative  , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative  p , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h1 , .elementor-403 .elementor-element.elementor-element-5c0a4b3
+                        .position_p_relative h2 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h3 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h4 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h5 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h6 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative a ,
+                        .elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative ul li , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-403 .elementor-element.elementor-element-2be1714 > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-wrapper-2{text-align:left;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:63%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:42%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:30%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:27%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:100%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:53%;}}@media(max-width:880px){.elementor-403 .elementor-element.elementor-element-64e30b5{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-403 .elementor-element.elementor-element-4239150{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-403 .elementor-element.elementor-element-4239150{--width:91%;--min-height:520px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:30px;line-height:38px;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-image-one, .elementor-403 .elementor-element.elementor-element-09b1705 .title-image-two{width:45px;height:45px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}</style><style>.elementor-403 .elementor-element.elementor-element-53f9941{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-53f9941:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-53f9941 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/decoria-home-2-slider-1-1-min.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-403 .elementor-element.elementor-element-64e30b5{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-d562e3c{--display:flex;}.elementor-403 .elementor-element.elementor-element-4239150{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-4239150:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-4239150 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-403 .elementor-element.elementor-element-09b1705{width:100%;max-width:100%;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative  , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative  p , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h1 , .elementor-403 .elementor-element.elementor-element-5c0a4b3
+                        .position_p_relative h2 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h3 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h4 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h5 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h6 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative a ,
+                        .elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative ul li , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-403 .elementor-element.elementor-element-2be1714 > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-wrapper-2{text-align:left;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:63%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:42%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:30%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:27%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:100%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:53%;}}@media(max-width:880px){.elementor-403 .elementor-element.elementor-element-64e30b5{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-403 .elementor-element.elementor-element-4239150{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-403 .elementor-element.elementor-element-4239150{--width:91%;--min-height:520px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:30px;line-height:38px;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-image-one, .elementor-403 .elementor-element.elementor-element-09b1705 .title-image-two{width:45px;height:45px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}/* Blur Effects - Works in Editor and Frontend */
+            .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+            }
+           
+            .elementor-element.blur-type-backdrop-filter.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-filter.blur-enabled-yes {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-both.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Mask Image Effects */
+            .elementor-element.mask-enabled-yes {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Overlay Effects */
+            .elementor-element.overlay-blur-enabled-yes::before {
+                filter: blur(10px) !important;
+                -webkit-filter: blur(10px) !important;
+            }
+           
+            .elementor-element.overlay-mask-enabled-yes::before {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Background specific blur targets */
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-video-container,
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-slideshow {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-container,
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-widget-wrap {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Editor specific improvements */
+            .elementor-editor-active .elementor-element.blur-enabled-yes {
+                position: relative;
+            }
+           
+            /* Force styles in editor preview */
+            #elementor-preview-iframe .elementor-element.blur-enabled-yes,
+            .elementor-device-desktop .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+            }</style>		<div data-elementor-type="wp-post" data-elementor-id="403" class="elementor elementor-403">
+				<div class="elementor-element elementor-element-53f9941 e-flex e-con-boxed e-con e-parent" data-id="53f9941" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-64e30b5 e-con-full e-flex e-con e-child" data-id="64e30b5" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d562e3c e-con-full elementor-hidden-mobile_extra elementor-hidden-mobile e-flex e-con e-child" data-id="d562e3c" data-element_type="container" data-e-type="container">
+				</div>
+		<div class="elementor-element elementor-element-4239150 e-con-full e-flex e-con e-child" data-id="4239150" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-09b1705 elementor-widget__width-inherit elementor-widget elementor-widget-slider-title-v1" data-id="09b1705" data-element_type="widget" data-e-type="widget" data-widget_type="slider-title-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="slider-title-wrapper type_two dark_color" data-animation-type="type_two">
+                                                <h2 class="slider-title-repeater mb_0 animated-title">
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Creative</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/blog-1-1.jpg" alt="Creative" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/11/blog-1-2.jpg" alt="Timeless " class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/blog-1-3.jpg" alt="Timeless " class="title-image-two">
+                                                                                </span>
+                                                                                                        
+                                <span class="title-text">Timeless </span>
+                                
+                                                            </span>
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Living </span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-1.jpg" alt="Living " class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-2.jpg" alt="Living " class="title-image-two">
+                                                                                </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/location-new-1-1.jpg" alt="Spaces" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                        
+                                <span class="title-text">Spaces</span>
+                                
+                                                            </span>
+                                            </h2>
+                                    </div>
+        				</div>
+				</div>
+		<div class="elementor-element elementor-element-e7600ca e-con-full e-flex e-con e-child" data-id="e7600ca" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5c0a4b3 elementor-widget elementor-widget-trimprim-text-editor-v1" data-id="5c0a4b3" data-element_type="widget" data-e-type="widget" data-widget_type="trimprim-text-editor-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="position-relative position_p_relative">
+                Designing elegant, functional homes that blend style and
+comfort for lasting beauty.            </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-2be1714 elementor-widget elementor-widget-theme-button-v2" data-id="2be1714" data-element_type="widget" data-e-type="widget" data-widget_type="theme-button-v2.default">
+				<div class="elementor-widget-container">
+					        <div class="theme-button-wrapper-2">
+            <a class="theme-button-new nbutton-style-1" href="#">
+                <i class="button-icon icon-before decorias-arrow-right"></i>                <span> Explore Our Services </span>
+                            </a>
+        </div>
+        				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		                            <div class="swiper-slide-shadow" style="opacity: 1; transition-duration: 0ms;"></div></div>
+                                                    <div class="swiper-slide swiper-slide-visible swiper-slide-active" role="group" aria-label="2 / 3" data-swiper-slide-index="1" style="width: 1835px; z-index: 5; transform: translate3d(calc(-3730px), calc(0px), calc(0px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1; transition-duration: 0ms; margin-right: 30px;">
+                                <style id="elementor-post-5863">.elementor-5863 .elementor-element.elementor-element-7bdabf0{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-7bdabf0:not(.elementor-motion-effects-element-type-background), .elementor-5863 .elementor-element.elementor-element-7bdabf0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/slider-home-2-2.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5863 .elementor-element.elementor-element-9c21f9b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-e446520{--display:flex;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-2d963aa:not(.elementor-motion-effects-element-type-background), .elementor-5863 .elementor-element.elementor-element-2d963aa > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-5863 .elementor-element.elementor-element-87da129{width:100%;max-width:100%;}.elementor-5863 .elementor-element.elementor-element-87da129 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-5863 .elementor-element.elementor-element-f95080a{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-5863 .elementor-element.elementor-element-53620e5  .position_p_relative  , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative  p , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h1 , .elementor-5863 .elementor-element.elementor-element-53620e5
+                        .position_p_relative h2 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h3 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h4 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h5 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h6 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative a ,
+                        .elementor-5863 .elementor-element.elementor-element-53620e5  .position_p_relative ul li , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-5863 .elementor-element.elementor-element-fa65b8a > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-5863 .elementor-element.elementor-element-fa65b8a .theme-button-wrapper-2{text-align:left;}.elementor-5863 .elementor-element.elementor-element-fa65b8a .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-5863 .elementor-element.elementor-element-fa65b8a .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-5863 .elementor-element.elementor-element-87da129 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:63%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:42%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:30%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:27%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:100%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:53%;}}@media(max-width:880px){.elementor-5863 .elementor-element.elementor-element-9c21f9b{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-87da129 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:91%;--min-height:520px;}.elementor-5863 .elementor-element.elementor-element-87da129 .title-text{font-size:30px;line-height:38px;}.elementor-5863 .elementor-element.elementor-element-87da129 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-5863 .elementor-element.elementor-element-87da129 .title-image-one, .elementor-5863 .elementor-element.elementor-element-87da129 .title-image-two{width:45px;height:45px;}.elementor-5863 .elementor-element.elementor-element-f95080a{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}</style><style>.elementor-5863 .elementor-element.elementor-element-7bdabf0{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-7bdabf0:not(.elementor-motion-effects-element-type-background), .elementor-5863 .elementor-element.elementor-element-7bdabf0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/slider-home-2-2.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5863 .elementor-element.elementor-element-9c21f9b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-e446520{--display:flex;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-2d963aa:not(.elementor-motion-effects-element-type-background), .elementor-5863 .elementor-element.elementor-element-2d963aa > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-5863 .elementor-element.elementor-element-87da129{width:100%;max-width:100%;}.elementor-5863 .elementor-element.elementor-element-87da129 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-5863 .elementor-element.elementor-element-f95080a{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-5863 .elementor-element.elementor-element-53620e5  .position_p_relative  , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative  p , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h1 , .elementor-5863 .elementor-element.elementor-element-53620e5
+                        .position_p_relative h2 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h3 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h4 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h5 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative h6 , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative a ,
+                        .elementor-5863 .elementor-element.elementor-element-53620e5  .position_p_relative ul li , .elementor-5863 .elementor-element.elementor-element-53620e5 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-5863 .elementor-element.elementor-element-fa65b8a > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-5863 .elementor-element.elementor-element-fa65b8a .theme-button-wrapper-2{text-align:left;}.elementor-5863 .elementor-element.elementor-element-fa65b8a .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-5863 .elementor-element.elementor-element-fa65b8a .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-5863 .elementor-element.elementor-element-87da129 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:63%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:42%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:30%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:27%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-5863 .elementor-element.elementor-element-e446520{--width:100%;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:53%;}}@media(max-width:880px){.elementor-5863 .elementor-element.elementor-element-9c21f9b{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-5863 .elementor-element.elementor-element-2d963aa{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-5863 .elementor-element.elementor-element-87da129 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-5863 .elementor-element.elementor-element-2d963aa{--width:91%;--min-height:520px;}.elementor-5863 .elementor-element.elementor-element-87da129 .title-text{font-size:30px;line-height:38px;}.elementor-5863 .elementor-element.elementor-element-87da129 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-5863 .elementor-element.elementor-element-87da129 .title-image-one, .elementor-5863 .elementor-element.elementor-element-87da129 .title-image-two{width:45px;height:45px;}.elementor-5863 .elementor-element.elementor-element-f95080a{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}/* Blur Effects - Works in Editor and Frontend */
+            .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+            }
+           
+            .elementor-element.blur-type-backdrop-filter.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-filter.blur-enabled-yes {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-both.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Mask Image Effects */
+            .elementor-element.mask-enabled-yes {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Overlay Effects */
+            .elementor-element.overlay-blur-enabled-yes::before {
+                filter: blur(10px) !important;
+                -webkit-filter: blur(10px) !important;
+            }
+           
+            .elementor-element.overlay-mask-enabled-yes::before {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Background specific blur targets */
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-video-container,
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-slideshow {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-container,
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-widget-wrap {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Editor specific improvements */
+            .elementor-editor-active .elementor-element.blur-enabled-yes {
+                position: relative;
+            }
+           
+            /* Force styles in editor preview */
+            #elementor-preview-iframe .elementor-element.blur-enabled-yes,
+            .elementor-device-desktop .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+            }</style>		<div data-elementor-type="wp-post" data-elementor-id="5863" class="elementor elementor-5863">
+				<div class="elementor-element elementor-element-7bdabf0 e-flex e-con-boxed e-con e-parent" data-id="7bdabf0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9c21f9b e-con-full e-flex e-con e-child" data-id="9c21f9b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-e446520 e-con-full elementor-hidden-mobile_extra elementor-hidden-mobile e-flex e-con e-child" data-id="e446520" data-element_type="container" data-e-type="container">
+				</div>
+		<div class="elementor-element elementor-element-2d963aa e-con-full e-flex e-con e-child" data-id="2d963aa" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-87da129 elementor-widget__width-inherit elementor-widget elementor-widget-slider-title-v1" data-id="87da129" data-element_type="widget" data-e-type="widget" data-widget_type="slider-title-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="slider-title-wrapper type_two dark_color" data-animation-type="type_two">
+                                                <h2 class="slider-title-repeater mb_0 animated-title">
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Inspired</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/blog-1-1.jpg" alt="Inspired" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/11/blog-1-2.jpg" alt="Spaces" class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/blog-1-3.jpg" alt="Spaces" class="title-image-two">
+                                                                                </span>
+                                                                                                        
+                                <span class="title-text">Spaces</span>
+                                
+                                                            </span>
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Inspired</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-1.jpg" alt="Inspired" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/location-new-1-1.jpg" alt="Living" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                        
+                                <span class="title-text">Living</span>
+                                
+                                                            </span>
+                                            </h2>
+                                    </div>
+        				</div>
+				</div>
+		<div class="elementor-element elementor-element-f95080a e-con-full e-flex e-con e-child" data-id="f95080a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-53620e5 elementor-widget elementor-widget-trimprim-text-editor-v1" data-id="53620e5" data-element_type="widget" data-e-type="widget" data-widget_type="trimprim-text-editor-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="position-relative position_p_relative">
+                Designing elegant, functional homes that blend style and
+comfort for lasting beauty.            </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-fa65b8a elementor-widget elementor-widget-theme-button-v2" data-id="fa65b8a" data-element_type="widget" data-e-type="widget" data-widget_type="theme-button-v2.default">
+				<div class="elementor-widget-container">
+					        <div class="theme-button-wrapper-2">
+            <a class="theme-button-new nbutton-style-1" href="#">
+                <i class="button-icon icon-before decorias-arrow-right"></i>                <span> See in Gallery </span>
+                            </a>
+        </div>
+        				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		                            <div class="swiper-slide-shadow" style="opacity: 0; transition-duration: 0ms;"></div></div>
+                                                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 3" data-swiper-slide-index="2" style="width: 1835px; z-index: 4; transform: translate3d(calc(100% - 5595px), calc(0px), calc(0px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1; transition-duration: 0ms; margin-right: 30px;">
+                                <style id="elementor-post-5871">.elementor-5871 .elementor-element.elementor-element-d5fd950{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-d5fd950:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-d5fd950 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/slider-home-2-3.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5871 .elementor-element.elementor-element-fbf955b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-fb32e9a{--display:flex;}.elementor-5871 .elementor-element.elementor-element-5440dea{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-5440dea:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-5440dea > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-5871 .elementor-element.elementor-element-9cd64c6{width:100%;max-width:100%;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative  , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative  p , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h1 , .elementor-5871 .elementor-element.elementor-element-15e2fb0
+                        .position_p_relative h2 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h3 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h4 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h5 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h6 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative a ,
+                        .elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative ul li , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-5871 .elementor-element.elementor-element-7031d2d > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-wrapper-2{text-align:left;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:63%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:42%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:30%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:27%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:100%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:53%;}}@media(max-width:880px){.elementor-5871 .elementor-element.elementor-element-fbf955b{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-5871 .elementor-element.elementor-element-5440dea{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-5871 .elementor-element.elementor-element-5440dea{--width:91%;--min-height:520px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:30px;line-height:38px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-one, .elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-two{width:45px;height:45px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}</style><style>.elementor-5871 .elementor-element.elementor-element-d5fd950{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-d5fd950:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-d5fd950 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/slider-home-2-3.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-5871 .elementor-element.elementor-element-fbf955b{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-fb32e9a{--display:flex;}.elementor-5871 .elementor-element.elementor-element-5440dea{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-5440dea:not(.elementor-motion-effects-element-type-background), .elementor-5871 .elementor-element.elementor-element-5440dea > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-5871 .elementor-element.elementor-element-9cd64c6{width:100%;max-width:100%;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative  , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative  p , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h1 , .elementor-5871 .elementor-element.elementor-element-15e2fb0
+                        .position_p_relative h2 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h3 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h4 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h5 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative h6 , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative a ,
+                        .elementor-5871 .elementor-element.elementor-element-15e2fb0  .position_p_relative ul li , .elementor-5871 .elementor-element.elementor-element-15e2fb0 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-5871 .elementor-element.elementor-element-7031d2d > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-wrapper-2{text-align:left;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-5871 .elementor-element.elementor-element-7031d2d .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:63%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:42%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:30%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:27%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-5871 .elementor-element.elementor-element-fb32e9a{--width:100%;}.elementor-5871 .elementor-element.elementor-element-5440dea{--width:53%;}}@media(max-width:880px){.elementor-5871 .elementor-element.elementor-element-fbf955b{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-5871 .elementor-element.elementor-element-5440dea{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-5871 .elementor-element.elementor-element-5440dea{--width:91%;--min-height:520px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-text{font-size:30px;line-height:38px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-one, .elementor-5871 .elementor-element.elementor-element-9cd64c6 .title-image-two{width:45px;height:45px;}.elementor-5871 .elementor-element.elementor-element-0bbd998{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}/* Blur Effects - Works in Editor and Frontend */
+            .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+            }
+           
+            .elementor-element.blur-type-backdrop-filter.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-filter.blur-enabled-yes {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-both.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Mask Image Effects */
+            .elementor-element.mask-enabled-yes {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Overlay Effects */
+            .elementor-element.overlay-blur-enabled-yes::before {
+                filter: blur(10px) !important;
+                -webkit-filter: blur(10px) !important;
+            }
+           
+            .elementor-element.overlay-mask-enabled-yes::before {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Background specific blur targets */
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-video-container,
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-slideshow {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-container,
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-widget-wrap {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Editor specific improvements */
+            .elementor-editor-active .elementor-element.blur-enabled-yes {
+                position: relative;
+            }
+           
+            /* Force styles in editor preview */
+            #elementor-preview-iframe .elementor-element.blur-enabled-yes,
+            .elementor-device-desktop .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+            }</style>		<div data-elementor-type="wp-post" data-elementor-id="5871" class="elementor elementor-5871">
+				<div class="elementor-element elementor-element-d5fd950 e-flex e-con-boxed e-con e-parent" data-id="d5fd950" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-fbf955b e-con-full e-flex e-con e-child" data-id="fbf955b" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-fb32e9a e-con-full elementor-hidden-mobile_extra elementor-hidden-mobile e-flex e-con e-child" data-id="fb32e9a" data-element_type="container" data-e-type="container">
+				</div>
+		<div class="elementor-element elementor-element-5440dea e-con-full e-flex e-con e-child" data-id="5440dea" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-9cd64c6 elementor-widget__width-inherit elementor-widget elementor-widget-slider-title-v1" data-id="9cd64c6" data-element_type="widget" data-e-type="widget" data-widget_type="slider-title-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="slider-title-wrapper type_two dark_color" data-animation-type="type_two">
+                                                <h2 class="slider-title-repeater mb_0 animated-title">
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Efficient</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/blog-1-1.jpg" alt="Efficient" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/11/blog-1-2.jpg" alt="Office" class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/blog-1-3.jpg" alt="Office" class="title-image-two">
+                                                                                </span>
+                                                                                                        
+                                <span class="title-text">Office</span>
+                                
+                                                            </span>
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Interior</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-1.jpg" alt="Interior" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/location-new-1-1.jpg" alt="Concepts" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                        
+                                <span class="title-text">Concepts</span>
+                                
+                                                            </span>
+                                            </h2>
+                                    </div>
+        				</div>
+				</div>
+		<div class="elementor-element elementor-element-0bbd998 e-con-full e-flex e-con e-child" data-id="0bbd998" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-15e2fb0 elementor-widget elementor-widget-trimprim-text-editor-v1" data-id="15e2fb0" data-element_type="widget" data-e-type="widget" data-widget_type="trimprim-text-editor-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="position-relative position_p_relative">
+                Designing elegant, functional homes that blend style and
+comfort for lasting beauty.            </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-7031d2d elementor-widget elementor-widget-theme-button-v2" data-id="7031d2d" data-element_type="widget" data-e-type="widget" data-widget_type="theme-button-v2.default">
+				<div class="elementor-widget-container">
+					        <div class="theme-button-wrapper-2">
+            <a class="theme-button-new nbutton-style-1" href="#">
+                <i class="button-icon icon-before decorias-arrow-right"></i>                <span> See in Gallery </span>
+                            </a>
+        </div>
+        				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		                            <div class="swiper-slide-shadow" style="opacity: 1; transition-duration: 0ms;"></div></div>
+                                                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-label="1 / 3" data-swiper-slide-index="0" style="width: 1835px; z-index: 3; transform: translate3d(calc(100% - 7460px), calc(0px), calc(0px)) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1); opacity: 1; transition-duration: 0ms; margin-right: 30px;">
+                                <style id="elementor-post-403">.elementor-403 .elementor-element.elementor-element-53f9941{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-53f9941:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-53f9941 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/decoria-home-2-slider-1-1-min.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-403 .elementor-element.elementor-element-64e30b5{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-d562e3c{--display:flex;}.elementor-403 .elementor-element.elementor-element-4239150{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-4239150:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-4239150 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-403 .elementor-element.elementor-element-09b1705{width:100%;max-width:100%;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative  , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative  p , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h1 , .elementor-403 .elementor-element.elementor-element-5c0a4b3
+                        .position_p_relative h2 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h3 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h4 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h5 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h6 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative a ,
+                        .elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative ul li , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-403 .elementor-element.elementor-element-2be1714 > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-wrapper-2{text-align:left;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:63%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:42%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:30%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:27%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:100%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:53%;}}@media(max-width:880px){.elementor-403 .elementor-element.elementor-element-64e30b5{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-403 .elementor-element.elementor-element-4239150{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-403 .elementor-element.elementor-element-4239150{--width:91%;--min-height:520px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:30px;line-height:38px;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-image-one, .elementor-403 .elementor-element.elementor-element-09b1705 .title-image-two{width:45px;height:45px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}</style><style>.elementor-403 .elementor-element.elementor-element-53f9941{--display:flex;--min-height:870px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:flex-start;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-53f9941:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-53f9941 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/decoria-home-2-slider-1-1-min.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-403 .elementor-element.elementor-element-64e30b5{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-d562e3c{--display:flex;}.elementor-403 .elementor-element.elementor-element-4239150{--display:flex;--min-height:780px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:flex-start;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-4239150:not(.elementor-motion-effects-element-type-background), .elementor-403 .elementor-element.elementor-element-4239150 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-backgroundbg1 );}.elementor-403 .elementor-element.elementor-element-09b1705{width:100%;max-width:100%;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 30px 0px 30px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--display:flex;--padding-top:25px;--padding-bottom:0px;--padding-left:30px;--padding-right:30px;}.elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative  , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative  p , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h1 , .elementor-403 .elementor-element.elementor-element-5c0a4b3
+                        .position_p_relative h2 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h3 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h4 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h5 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative h6 , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative a ,
+                        .elementor-403 .elementor-element.elementor-element-5c0a4b3  .position_p_relative ul li , .elementor-403 .elementor-element.elementor-element-5c0a4b3 .position_p_relative ul li a {font-size:17px;font-weight:400;line-height:28px;}.elementor-403 .elementor-element.elementor-element-2be1714 > .elementor-widget-container{padding:10px 0px 0px 0px;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-wrapper-2{text-align:left;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new{backdrop-filter:blur(0px);transition:all 0.3s ease-in-out;}.elementor-403 .elementor-element.elementor-element-2be1714 .theme-button-new:hover{backdrop-filter:blur(0px);}@media(max-width:1366px){.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:70px;line-height:78px;}}@media(min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:63%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:570px;}}@media(max-width:1366px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:42%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:47%;}}@media(max-width:1200px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:30%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:58%;}}@media(max-width:1024px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:27%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:62%;}}@media(max-width:880px) and (min-width:768px){.elementor-403 .elementor-element.elementor-element-d562e3c{--width:100%;}.elementor-403 .elementor-element.elementor-element-4239150{--width:53%;}}@media(max-width:880px){.elementor-403 .elementor-element.elementor-element-64e30b5{--flex-direction:column-reverse;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--flex-wrap:wrap;}.elementor-403 .elementor-element.elementor-element-4239150{--min-height:661px;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:36px;line-height:42px;}}@media(max-width:767px){.elementor-403 .elementor-element.elementor-element-4239150{--width:91%;--min-height:520px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-text{font-size:30px;line-height:38px;}.elementor-403 .elementor-element.elementor-element-09b1705 .slider-title-repeater   .title-item-wrapper{padding:0px 15px 0px 15px;}.elementor-403 .elementor-element.elementor-element-09b1705 .title-image-one, .elementor-403 .elementor-element.elementor-element-09b1705 .title-image-two{width:45px;height:45px;}.elementor-403 .elementor-element.elementor-element-e7600ca{--padding-top:24px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}}/* Blur Effects - Works in Editor and Frontend */
+            .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(10px);
+                -webkit-backdrop-filter: blur(10px);
+            }
+           
+            .elementor-element.blur-type-backdrop-filter.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-filter.blur-enabled-yes {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-type-both.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Mask Image Effects */
+            .elementor-element.mask-enabled-yes {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Overlay Effects */
+            .elementor-element.overlay-blur-enabled-yes::before {
+                filter: blur(10px) !important;
+                -webkit-filter: blur(10px) !important;
+            }
+           
+            .elementor-element.overlay-mask-enabled-yes::before {
+                mask-repeat: no-repeat;
+                -webkit-mask-repeat: no-repeat;
+                mask-position: center center;
+                -webkit-mask-position: center center;
+                mask-size: cover;
+                -webkit-mask-size: cover;
+            }
+           
+            /* Background specific blur targets */
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-video-container,
+            .elementor-element.blur-target-background.blur-enabled-yes .elementor-background-slideshow {
+                filter: blur(var(--blur-intensity, 10px));
+                -webkit-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-container,
+            .elementor-element.blur-target-content.blur-enabled-yes .elementor-widget-wrap {
+                backdrop-filter: blur(var(--blur-intensity, 10px));
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px));
+            }
+           
+            /* Editor specific improvements */
+            .elementor-editor-active .elementor-element.blur-enabled-yes {
+                position: relative;
+            }
+           
+            /* Force styles in editor preview */
+            #elementor-preview-iframe .elementor-element.blur-enabled-yes,
+            .elementor-device-desktop .elementor-element.blur-enabled-yes {
+                backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+                -webkit-backdrop-filter: blur(var(--blur-intensity, 10px)) !important;
+            }</style>		<div data-elementor-type="wp-post" data-elementor-id="403" class="elementor elementor-403">
+				<div class="elementor-element elementor-element-53f9941 e-flex e-con-boxed e-con e-parent" data-id="53f9941" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-64e30b5 e-con-full e-flex e-con e-child" data-id="64e30b5" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-d562e3c e-con-full elementor-hidden-mobile_extra elementor-hidden-mobile e-flex e-con e-child" data-id="d562e3c" data-element_type="container" data-e-type="container">
+				</div>
+		<div class="elementor-element elementor-element-4239150 e-con-full e-flex e-con e-child" data-id="4239150" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-09b1705 elementor-widget__width-inherit elementor-widget elementor-widget-slider-title-v1" data-id="09b1705" data-element_type="widget" data-e-type="widget" data-widget_type="slider-title-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="slider-title-wrapper type_two dark_color" data-animation-type="type_two">
+                                                <h2 class="slider-title-repeater mb_0 animated-title">
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Creative</span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/12/blog-1-1.jpg" alt="Creative" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/11/blog-1-2.jpg" alt="Timeless " class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2025/10/blog-1-3.jpg" alt="Timeless " class="title-image-two">
+                                                                                </span>
+                                                                                                        
+                                <span class="title-text">Timeless </span>
+                                
+                                                            </span>
+                                                                                <span class="title-item-wrapper">
+                                                                
+                                <span class="title-text">Living </span>
+                                
+                                                                                                             <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-1.jpg" alt="Living " class="title-image-one">
+                                                                                                                            <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/service-1-2.jpg" alt="Living " class="title-image-two">
+                                                                                </span>
+                                                                                                    </span>
+                                                                                <span class="title-item-wrapper">
+                                                                                                              <span class="image_box">
+                                                                                    <img decoding="async" src="https://decoria.steelthemes.com/demo/wp-content/uploads/2026/01/location-new-1-1.jpg" alt="Spaces" class="title-image-one">
+                                                                                                                        </span>
+                                                                                                        
+                                <span class="title-text">Spaces</span>
+                                
+                                                            </span>
+                                            </h2>
+                                    </div>
+        				</div>
+				</div>
+		<div class="elementor-element elementor-element-e7600ca e-con-full e-flex e-con e-child" data-id="e7600ca" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5c0a4b3 elementor-widget elementor-widget-trimprim-text-editor-v1" data-id="5c0a4b3" data-element_type="widget" data-e-type="widget" data-widget_type="trimprim-text-editor-v1.default">
+				<div class="elementor-widget-container">
+					        <div class="position-relative position_p_relative">
+                Designing elegant, functional homes that blend style and
+comfort for lasting beauty.            </div>
+        				</div>
+				</div>
+				<div class="elementor-element elementor-element-2be1714 elementor-widget elementor-widget-theme-button-v2" data-id="2be1714" data-element_type="widget" data-e-type="widget" data-widget_type="theme-button-v2.default">
+				<div class="elementor-widget-container">
+					        <div class="theme-button-wrapper-2">
+            <a class="theme-button-new nbutton-style-1" href="#">
+                <i class="button-icon icon-before decorias-arrow-right"></i>                <span> Explore Our Services </span>
+                            </a>
+        </div>
+        				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		                            </div></div>
+                            <div class="pagination_box">
+                                    <div class="slider-pagination slider-pagination-d37abb6 swiper-pagination-fraction swiper-pagination-horizontal"><span class="swiper-pagination-current">2</span> / <span class="swiper-pagination-total">3</span></div>
+                                <div class="common_arrow_slider">
+                        <div class="slider-prev-one slider-prev-d37abb6" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-e2e2ae489f40f74a">
+                          
+                            <i class=" decorias-chevron-left"></i>
+                                                                 Prev 
+                                                      </div>
+                        <div class="slider-next-one slider-next-d37abb6" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-e2e2ae489f40f74a">
+                                                             Next 
+                                                          <i class=" decorias-chevron-right"></i>
+                         
+                        </div>
+            </div> 
+ </div> 
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
