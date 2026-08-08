@@ -27,10 +27,11 @@ jobs:
 
       - name: Verify build output
         run: |
-          echo "=== DIST CONTENT ==="
-          ls -la dist
-          echo "=== BUILD FILES ==="
-          find dist -type f
+          pwd
+          echo "=== ROOT DIST ==="
+          ls -la dist 2>/dev/null || echo "no root dist"
+          echo "=== FRONTEND DIST ==="
+          ls -la frontend/dist 2>/dev/null || echo "no frontend/dist"
 
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
