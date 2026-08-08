@@ -38,6 +38,6 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./dist/
+          local-dir: ./frontend/dist/
           server-dir: /3gdeco/tmp_pro/
           dangerous-clean-slate: false
