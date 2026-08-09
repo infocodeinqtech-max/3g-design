@@ -1,4 +1,5 @@
-name: Deploy Frontend Only (SCP)
+name: Deploy 3G Deco Design
+
 on:
   push:
     branches:
@@ -7,10 +8,13 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Setup Node
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -18,26 +22,18 @@ jobs:
           cache: npm
           cache-dependency-path: frontend/package-lock.json
 
+      # Install React dependencies
       - name: Install dependencies
         working-directory: frontend
         run: npm ci
 
+      # Build React
       - name: Build React
         working-directory: frontend
         run: npm run build
 
-      - name: Ensure target folder exists
-        uses: appleboy/ssh-action@v1.2.0
-        with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.SSH_KEY }}
-          port: ${{ secrets.PORT }}
-          script: |
-            mkdir -p /home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro
-            ls -la /home/u688571317/domains/codeinq.com/public_html/3gdeco/
-
-      - name: Upload React Build to tmp_pro
+      # Upload React build to Hostinger
+      - name: Upload React Build
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.HOST }}
@@ -46,17 +42,3 @@ jobs:
           port: ${{ secrets.PORT }}
           source: "frontend/dist/*"
           target: "/home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/"
-          strip_components: 2
-          overwrite: true
-          debug: true
-
-      - name: Verify upload
-        uses: appleboy/ssh-action@v1.2.0
-        with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          key: ${{ secrets.SSH_KEY }}
-          port: ${{ secrets.PORT }}
-          script: |
-            echo "----- Contents of tmp_pro -----"
-            ls -la /home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/
