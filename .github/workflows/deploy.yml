@@ -38,10 +38,10 @@ jobs:
       - name: Upload React build
         uses: appleboy/scp-action@v0.1.7
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_KEY }}
-          port: ${{ secrets.PORT }}
+          port: ${{ secrets.SSH_PORT }}
           source: "dist/*"
           target: "/home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/"
           strip_components: 1
