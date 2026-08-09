@@ -1,5 +1,4 @@
-name: Deploy Frontend
-
+name: Deploy Frontend Only (SCP)
 on:
   push:
     branches:
@@ -8,39 +7,56 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: frontend/package-lock.json
 
       - name: Install dependencies
+        working-directory: frontend
         run: npm ci
 
-      - name: Build
+      - name: Build React
+        working-directory: frontend
         run: npm run build
 
-      - name: Verify build output
-        run: |
-          pwd
-          echo "=== ROOT DIST ==="
-          ls -la dist 2>/dev/null || echo "no root dist"
-          echo "=== FRONTEND DIST ==="
-          ls -la frontend/dist 2>/dev/null || echo "no frontend/dist"
-
-      - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: Ensure target folder exists
+        uses: appleboy/ssh-action@v1.2.0
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./dist/
-          server-dir: /home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/
-          dangerous-clean-slate: false
-          log-level: verbose
-          
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            mkdir -p /home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro
+            ls -la /home/u688571317/domains/codeinq.com/public_html/3gdeco/
+
+      - name: Upload React Build to tmp_pro
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          source: "frontend/dist/*"
+          target: "/home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/"
+          strip_components: 2
+          overwrite: true
+          debug: true
+
+      - name: Verify upload
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            echo "----- Contents of tmp_pro -----"
+            ls -la /home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/
