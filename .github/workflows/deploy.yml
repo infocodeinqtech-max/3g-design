@@ -10,29 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Setup Node
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: frontend/package-lock.json
+          cache-dependency-path: package-lock.json
 
-      # Install React dependencies
       - name: Install dependencies
-        working-directory: frontend
         run: npm ci
 
-      # Build React
       - name: Build React
-        working-directory: frontend
         run: npm run build
 
-      # Upload React build to Hostinger
       - name: Upload React Build
         uses: appleboy/scp-action@v0.1.7
         with:
@@ -40,5 +33,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
-          source: "frontend/dist/*"
+          source: "dist/*"
           target: "/home/u688571317/domains/codeinq.com/public_html/3gdeco/tmp_pro/"
+          strip_components: 1
+          overwrite: true
